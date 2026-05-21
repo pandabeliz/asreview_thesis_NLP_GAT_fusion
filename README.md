@@ -1,1 +1,1 @@
-# asreview_thesis_NLP_GAT_fusion
+# ASReview Master's Thesis: Fusion of NLP and GAT
